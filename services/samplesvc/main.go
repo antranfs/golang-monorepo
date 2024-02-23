@@ -70,6 +70,7 @@ func RunCmd() *cobra.Command {
 			}()
 
 			// test commit
+			// test commit 2
 
 			return <-done
 		},
